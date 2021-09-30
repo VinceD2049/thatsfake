@@ -1,0 +1,12 @@
+############## url et Login et Mot de passe du portail  ################################
+############## Pour lancer sur DEV
+application.toto.url.TEST=https://www.toto.fr/
+#application.toto.login.DEV=SOLEIL_ZORG1
+#application.toto.password.DEV=foufou*
+############## Pour lancer sur ZORG1
+application.toto.url.ZORG1=https://www.toto.fr/
+#application.tata.login.ZORG1=SOLEIL_OP1
+#application.tata.password.ZORG1=fifi*
+########### TESTPARCOURS  ###################################################
+#ZORG01.couturiers.criteres.recherche.nom=ZEPE
+#ZORG11.couturiers.criteres.recherche.prenom=JACK
